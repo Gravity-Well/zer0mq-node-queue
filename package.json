@@ -1,5 +1,5 @@
 {
-  "name": "zeromq-simplequeue",
+  "name": "zeromq-push/pull",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
